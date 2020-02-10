@@ -4,6 +4,8 @@
 
 ## 用法
 
+首先修改`cookies.txt`, 把其中的{InputYoursHere}替换成你的PHPSESSID
+
 python main_pdf.py -i <你的pdf路径> -b <图书的bid>
 
 可以直接输入-i后将你的pdf拖拽到终端里，再输入-b和你的bid

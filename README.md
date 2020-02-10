@@ -1,6 +1,6 @@
 # 文泉学堂目录添加器
 
-> 感谢kajweb同学的wqxuetang_downloader中提供的代码，本项目只是将其中的生成目录部分拿出来单独做成一个小工具，供大家救急使用
+> 感谢[kajweb](https://github.com/kajweb/)同学的[wqxuetang_downloader](https://github.com/kajweb/wqxuetang_downloader)中提供的代码，本项目只是将其中的生成目录部分拿出来单独做成一个小工具，供大家救急使用
 
 ## 用法
 
